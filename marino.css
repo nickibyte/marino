@@ -60,8 +60,10 @@ nav a:hover { text-decoration: underline; }
 
 	max-width: 19%;
 	margin: 1.5em;
-	margin-left: 4%;
-	margin-right: 2%;
+	/*
+	 * margin-left: 4%;
+	 * margin-right: 2%;
+	*/
 
 	overflow-wrap: break-word;
 
@@ -83,8 +85,10 @@ nav {
 
 	max-width: 19%;
 	margin: 1.5em;
-	margin-left: 2%;
-	margin-right: 4%;
+	/*
+	 * margin-left: 2%;
+	 * margin-right: 4%;
+	*/
 
 	text-align: right;
 	overflow: hidden;
